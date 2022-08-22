@@ -1,0 +1,27 @@
+.bg-prop{
+    background-color: rgb(175, 236, 216);
+}
+#top-heading{
+    text-align: center;
+}
+.vl{
+    height: 20px;
+    border: 10px solid black;
+    margin-right: 3px;
+}
+
+#bars li{
+    display: inline-block;
+}
+
+#bars{
+    text-align: center;
+}
+
+.flex-item{
+    background: pink;
+    border: 1pt solid black;
+    width: 10px;
+    transition: 0.5s all ease;
+    margin-right: 2px;
+}
